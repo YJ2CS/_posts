@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c905d4edd1fdc0c2",
+        "id": "abd09c36ed12dcbf",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -19,7 +19,7 @@
         }
       },
       {
-        "id": "ad8638c6088bfff9",
+        "id": "f34deddb04454c59",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -53,6 +53,16 @@
           "state": {
             "file": "Find unlinked files plugin output.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "a549111c85c03272",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "images/Pasted image 20210127114010.png"
           }
         }
       }
@@ -165,6 +175,7 @@
   },
   "lastOpenFiles": [
     "Find unlinked files plugin output.md",
+    "images/Pasted image 20210127114010.png",
     "_posts/mb-s与-mb-s一样吗.md",
     "_private/_阅读/__文摘-小感.md"
   ]
