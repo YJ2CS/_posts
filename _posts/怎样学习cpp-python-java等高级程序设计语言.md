@@ -64,7 +64,7 @@ date updated: '2021-01-30T09:52:25+08:00'
 
 - Python Learning： [[python-learning]]
 
-- C++ 笔记与源码阅读目录: [[0-0-cpp目录]]
+- C++ 笔记与源码阅读目录: [[cpp目录]]
 
 ## 学习配套书目
 
