@@ -1,6 +1,6 @@
 ---
 title: 将更改提取到本地Git存储库-Azure存储库
-url: 将更改提取到本地git存储库_azure存储库
+siteurl: 将更改提取到本地git存储库_azure存储库
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

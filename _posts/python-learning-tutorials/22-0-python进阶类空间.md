@@ -1,6 +1,6 @@
 ---
 title: 22-0-python进阶类空间
-url: 22-0-python进阶类空间
+siteurl: 22-0-python进阶类空间
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

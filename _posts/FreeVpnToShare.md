@@ -1,6 +1,6 @@
 ---
 title: FreeVpnToShare
-url: FreeVpnToShare
+siteurl: FreeVpnToShare
 tags:
   - ToolBox
   - FreeVPN

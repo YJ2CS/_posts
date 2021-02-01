@@ -1,6 +1,6 @@
 ---
 title: 记录wordpress搬家-apache-to-nginx
-url: 记录wordpress搬家-apache-to-nginx
+siteurl: 记录wordpress搬家-apache-to-nginx
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: PicGo + GitHub 图床，让 Markdown 飞起
-url: picgo-github图床-让markdown飞起
+siteurl: picgo-github图床-让markdown飞起
 tags:
   - Markdown
 comments: true

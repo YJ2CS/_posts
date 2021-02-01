@@ -1,6 +1,6 @@
 ---
 title: Windows下的基础环境配置
-url: windows下的基础环境配置
+siteurl: windows下的基础环境配置
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

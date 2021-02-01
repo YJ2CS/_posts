@@ -1,6 +1,6 @@
 ---
 title: python-learning
-url: python-learning
+siteurl: python-learning
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

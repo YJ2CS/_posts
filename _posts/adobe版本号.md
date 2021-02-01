@@ -1,6 +1,6 @@
 ---
 title: Adobe版本号
-url: adobe版本号
+siteurl: adobe版本号
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

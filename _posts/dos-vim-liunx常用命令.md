@@ -1,6 +1,6 @@
 ---
 title: Dos Vim Liunx常用命令
-url: dos-vim-liunx常用命令
+siteurl: dos-vim-liunx常用命令
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

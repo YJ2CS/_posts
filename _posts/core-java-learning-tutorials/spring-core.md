@@ -1,6 +1,6 @@
 ---
 title: Spring Core
-url: spring-core
+siteurl: spring-core
 alias:
   - 6-1-spring-core/index.html
 author: YJ2CS

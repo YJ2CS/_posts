@@ -1,6 +1,6 @@
 ---
 title: linux下安装、配置、学习使用Git
-url: git-安装-配置-学习-linux
+siteurl: git-安装-配置-学习-linux
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

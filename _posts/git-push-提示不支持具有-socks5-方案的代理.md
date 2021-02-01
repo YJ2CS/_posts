@@ -1,6 +1,6 @@
 ---
 title: Git Push 提示不支持具有 Socks5 方案的代理
-url: git-push-提示不支持具有-socks5-方案的代理
+siteurl: git-push-提示不支持具有-socks5-方案的代理
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

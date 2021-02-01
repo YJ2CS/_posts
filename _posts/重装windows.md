@@ -1,6 +1,6 @@
 ---
 title: 重装Windows
-url: 重装windows
+siteurl: 重装windows
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

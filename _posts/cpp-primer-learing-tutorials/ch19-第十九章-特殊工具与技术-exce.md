@@ -1,6 +1,6 @@
 ---
 title: 第十九章 特殊工具与技术 exce
-url: ch19-第十九章-特殊工具与技术-exce
+siteurl: ch19-第十九章-特殊工具与技术-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

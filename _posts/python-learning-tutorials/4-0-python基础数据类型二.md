@@ -1,6 +1,6 @@
 ---
 title: 4-0-python基础数据类型二
-url: 4-0-python基础数据类型二
+siteurl: 4-0-python基础数据类型二
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: Git 代理配置方案
-url: git-代理配置方案
+siteurl: git-代理配置方案
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

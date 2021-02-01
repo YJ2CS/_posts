@@ -1,6 +1,6 @@
 ---
 title: Python目录
-url: python目录
+siteurl: python目录
 alias:
   - index-python/index.html
   - 0_0_python目录/index.html

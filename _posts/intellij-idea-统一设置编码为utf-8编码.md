@@ -1,6 +1,6 @@
 ---
 title: IntelliJ IDEA 统一设置编码为utf-8编码
-url: intellij-idea-统一设置编码为utf-8编码
+siteurl: intellij-idea-统一设置编码为utf-8编码
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

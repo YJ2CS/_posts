@@ -1,6 +1,6 @@
 ---
 title: JSON
-url: 7-2-json
+siteurl: 7-2-json
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

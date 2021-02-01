@@ -1,6 +1,6 @@
 ---
 title: WordPress静态缓存插件WP Super Cache的使用方法
-url: wordpress静态缓存插件wp-super-cache的使用方法
+siteurl: wordpress静态缓存插件wp-super-cache的使用方法
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

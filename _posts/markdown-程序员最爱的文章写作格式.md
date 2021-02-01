@@ -1,6 +1,6 @@
 ---
 title: markdown-程序员最爱的文章写作格式
-url: markdown-程序员最爱的文章写作格式
+siteurl: markdown-程序员最爱的文章写作格式
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

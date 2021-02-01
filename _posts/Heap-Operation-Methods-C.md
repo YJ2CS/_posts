@@ -1,6 +1,6 @@
 ---
 title: 堆的基本操作（C 语言版）
-url: Heap-Operation-Methods-C
+siteurl: Heap-Operation-Methods-C
 tags:
   - 数据结构与算法
   - 堆

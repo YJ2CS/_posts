@@ -1,6 +1,6 @@
 ---
 title: mkdocs文档搭建配置
-url: mkdocs文档搭建配置
+siteurl: mkdocs文档搭建配置
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

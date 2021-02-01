@@ -1,6 +1,6 @@
 ---
 title: win10环境下-mingw-w64-cmake-clion-安装及配置-cpp-和-opencv-运行环境
-url: win10环境下-mingw-w64-cmake-clion-安装及配置-cpp-和-opencv-运行环境
+siteurl: win10环境下-mingw-w64-cmake-clion-安装及配置-cpp-和-opencv-运行环境
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

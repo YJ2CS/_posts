@@ -1,6 +1,6 @@
 ---
 title: Git常用操作命令收集
-url: git常用操作命令收集
+siteurl: git常用操作命令收集
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

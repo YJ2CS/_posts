@@ -1,6 +1,6 @@
 ---
 title: VsVim 配置快捷键
-url: vsvim-配置快捷键
+siteurl: vsvim-配置快捷键
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

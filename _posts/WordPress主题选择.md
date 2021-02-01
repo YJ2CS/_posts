@@ -1,6 +1,6 @@
 ---
 title: WordPress主题选择
-url: wordpress主题选择
+siteurl: wordpress主题选择
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: Coding+Github双服务器托管Hexo
-url: coding-github双服务器托管hexo
+siteurl: coding-github双服务器托管hexo
 comments: true
 categories:
   - 文章

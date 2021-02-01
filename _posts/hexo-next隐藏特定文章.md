@@ -1,6 +1,6 @@
 ---
 title: Hexo+NexT隐藏特定文章
-url: hexo-next隐藏特定文章
+siteurl: hexo-next隐藏特定文章
 comments: true
 categories:
   - 文章
@@ -49,7 +49,7 @@ hide:
 如果 `hide_post` 设置为 `true` , 新建文章时设置字段 `hide: true` 即可隐藏指定文章, 设置样式可参考下面：
 ```js
 title: 测试图片展示
-url: pictureToDisplayTest_5-3
+siteurl: pictureToDisplayTest_5-3
 author: WuGenQiang
 type: picture
 hide: true

@@ -2,7 +2,7 @@
 title: >-
   This application failed to start because no Qt platform plugin could be
   initialized
-url: >-
+siteurl: >-
   this-application-failed-to-start-because-no-qt-platform-plugin-could-be-initialized
 author: YJ2CS
 avatar: /custom/avatar.webp

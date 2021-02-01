@@ -1,6 +1,6 @@
 ---
 title: 0-5-python使用
-url: 0-5-python使用
+siteurl: 0-5-python使用
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

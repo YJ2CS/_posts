@@ -1,6 +1,6 @@
 ---
 title: windows-hexo博客环境初始化
-url: windows-hexo博客环境初始化
+siteurl: windows-hexo博客环境初始化
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

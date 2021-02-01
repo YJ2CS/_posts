@@ -1,6 +1,6 @@
 ---
 title: 二叉树的基本操作（C 语言版）包含递归和非递归算法
-url: BiTree-Operation-Methods-C
+siteurl: BiTree-Operation-Methods-C
 tags:
   - 数据结构与算法
   - 二叉树

@@ -1,6 +1,6 @@
 ---
 title: 24-0-python面向对象三大特性
-url: 24-0-python面向对象三大特性
+siteurl: 24-0-python面向对象三大特性
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

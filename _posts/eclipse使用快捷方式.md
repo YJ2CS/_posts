@@ -1,6 +1,6 @@
 ---
 title: eclipse使用快捷方式
-url: eclipse使用快捷方式
+siteurl: eclipse使用快捷方式
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

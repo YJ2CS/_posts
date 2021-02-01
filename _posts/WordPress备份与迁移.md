@@ -1,6 +1,6 @@
 ---
 title: WordPress备份与迁移
-url: WordPress备份与迁移
+siteurl: WordPress备份与迁移
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

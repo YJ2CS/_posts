@@ -1,6 +1,6 @@
 ---
 title: git-submodule-子模块的管理和使用
-url: git-submodule-子模块的管理和使用
+siteurl: git-submodule-子模块的管理和使用
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

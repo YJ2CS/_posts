@@ -1,6 +1,6 @@
 ---
 title: Springboot实现小程序端发送邮箱验证码功能
-url: Springboot实现邮箱验证码功能
+siteurl: Springboot实现邮箱验证码功能
 tags:
   - 邮箱验证
   - Springboot

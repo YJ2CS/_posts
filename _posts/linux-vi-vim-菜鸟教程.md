@@ -1,6 +1,6 @@
 ---
 title: Linux vi/vim | 菜鸟教程
-url: linux-vi-vim-菜鸟教程
+siteurl: linux-vi-vim-菜鸟教程
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

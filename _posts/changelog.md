@@ -1,6 +1,6 @@
 ---
 title: changelog
-url: changelog
+siteurl: changelog
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

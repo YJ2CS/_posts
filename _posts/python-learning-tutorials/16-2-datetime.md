@@ -1,6 +1,6 @@
 ---
 title: 16-2-datetime
-url: 16-2-datetime
+siteurl: 16-2-datetime
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

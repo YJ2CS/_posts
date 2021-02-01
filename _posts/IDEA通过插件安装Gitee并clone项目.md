@@ -1,6 +1,6 @@
 ---
 title: IDEA通过插件安装Gitee并clone项目
-url: IDEA通过插件安装Gitee并clone项目
+siteurl: IDEA通过插件安装Gitee并clone项目
 tags:
   - Gitee
   - IDEA

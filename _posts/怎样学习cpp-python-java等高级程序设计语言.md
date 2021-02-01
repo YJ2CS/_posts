@@ -1,6 +1,6 @@
 ---
 title: 怎样学习C++,Python,Java等高级程序设计语言
-url: 怎样学习cpp-python-java等高级程序设计语言
+siteurl: 怎样学习cpp-python-java等高级程序设计语言
 alias:
   - readme/index.html
   - README/index.html

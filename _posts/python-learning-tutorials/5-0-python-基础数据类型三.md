@@ -1,6 +1,6 @@
 ---
 title: 5-0-python-基础数据类型三
-url: 5-0-python-基础数据类型三
+siteurl: 5-0-python-基础数据类型三
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

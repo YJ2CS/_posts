@@ -1,6 +1,6 @@
 ---
 title: docker wsl2 hyperv proxifier 踩坑
-url: docker-wsl2-hyper-v-proxifier-踩坑
+siteurl: docker-wsl2-hyper-v-proxifier-踩坑
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: Hexo的NexT主题打赏功能
-url: hexo的next主题打赏功能
+siteurl: hexo的next主题打赏功能
 comments: true
 categories:
   - 文章

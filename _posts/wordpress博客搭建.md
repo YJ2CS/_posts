@@ -1,6 +1,6 @@
 ---
 title: wordpress博客搭建
-url: wordpress博客搭建
+siteurl: wordpress博客搭建
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

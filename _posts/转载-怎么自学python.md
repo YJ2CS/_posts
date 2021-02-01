@@ -1,6 +1,6 @@
 ---
 title: 怎么自学python
-url: 转载-怎么自学python
+siteurl: 转载-怎么自学python
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

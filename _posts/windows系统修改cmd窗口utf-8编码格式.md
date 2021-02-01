@@ -1,6 +1,6 @@
 ---
 title: windows系统修改cmd窗口utf-8编码格式
-url: windows系统修改cmd窗口utf-8编码格式
+siteurl: windows系统修改cmd窗口utf-8编码格式
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

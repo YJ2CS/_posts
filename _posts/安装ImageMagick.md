@@ -1,6 +1,6 @@
 ---
 title: 安装ImageMagick
-url: 安装ImageMagick
+siteurl: 安装ImageMagick
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: 记录wsl2配置和使用
-url: 记录wsl2配置和使用
+siteurl: 记录wsl2配置和使用
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

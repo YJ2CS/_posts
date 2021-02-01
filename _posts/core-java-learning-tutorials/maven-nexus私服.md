@@ -1,6 +1,6 @@
 ---
 title: Maven:nexus私服
-url: maven-nexus私服
+siteurl: maven-nexus私服
 alias:
   - 5-1-8-nexus私服/index.html
 author: YJ2CS

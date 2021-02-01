@@ -1,6 +1,6 @@
 ---
 title: 第六章 函数 exce
-url: ch06-第六章-函数-exce
+siteurl: ch06-第六章-函数-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

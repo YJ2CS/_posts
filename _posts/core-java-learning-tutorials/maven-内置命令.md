@@ -1,6 +1,6 @@
 ---
 title: Maven：内置命令
-url: maven-内置命令
+siteurl: maven-内置命令
 alias:
   - 5-1-3-maven内置命令/index.html
 author: YJ2CS

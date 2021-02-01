@@ -1,6 +1,6 @@
 ---
 title: 第十章 泛型算法 exce
-url: ch10-第十章-泛型算法-exce
+siteurl: ch10-第十章-泛型算法-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

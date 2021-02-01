@@ -2,7 +2,7 @@
 title: >-
   Fatal error: Uncaught RuntimeException: Error saving action: Error saving
   action
-url: fatal-error-uncaught-runtimeexception-error-saving-action-error-saving-action
+siteurl: fatal-error-uncaught-runtimeexception-error-saving-action-error-saving-action
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

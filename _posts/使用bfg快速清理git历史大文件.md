@@ -1,6 +1,6 @@
 ---
 title: 使用bfg快速清理git历史大文件
-url: 使用bfg快速清理git历史大文件
+siteurl: 使用bfg快速清理git历史大文件
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: Typora+PicGo+Gitee实现图片上传功能
-url: typora-picgo-gitee-picturebed-cool
+siteurl: typora-picgo-gitee-picturebed-cool
 tags:
   - ToolBox
   - PictureBed

@@ -1,6 +1,6 @@
 ---
 title: git 推送帮助”部分的“快进说明”以了解详细信息-处理非快进错误
-url: git-推送帮助-部分的-快进说明-以了解详细信息-处理非快进错误
+siteurl: git-推送帮助-部分的-快进说明-以了解详细信息-处理非快进错误
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: 如何学C++
-url: 0-1-如何学cpp
+siteurl: 0-1-如何学cpp
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

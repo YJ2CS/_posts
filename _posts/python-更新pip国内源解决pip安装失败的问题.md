@@ -1,6 +1,6 @@
 ---
 title: python-更新pip国内源解决pip安装失败的问题
-url: python-更新pip国内源解决pip安装失败的问题
+siteurl: python-更新pip国内源解决pip安装失败的问题
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

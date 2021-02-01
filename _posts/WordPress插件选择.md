@@ -1,6 +1,6 @@
 ---
 title: WordPress插件选择
-url: WordPress插件选择
+siteurl: WordPress插件选择
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

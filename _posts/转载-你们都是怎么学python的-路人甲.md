@@ -1,6 +1,6 @@
 ---
 title: 你们都是怎么学 Python 的？
-url: 转载-你们都是怎么学python的_路人甲
+siteurl: 转载-你们都是怎么学python的_路人甲
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

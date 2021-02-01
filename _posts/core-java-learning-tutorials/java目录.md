@@ -1,6 +1,6 @@
 ---
 title: Java目录
-url: java目录
+siteurl: java目录
 alias:
   - index-java/index.html
   - 0_0_java目录/index.html

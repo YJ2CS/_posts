@@ -1,6 +1,6 @@
 ---
 title: win-sudo
-url: win-sudo
+siteurl: win-sudo
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

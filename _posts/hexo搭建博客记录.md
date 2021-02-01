@@ -1,6 +1,6 @@
 ---
 title: Hexo搭建博客记录
-url: hexo搭建博客记录
+siteurl: hexo搭建博客记录
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

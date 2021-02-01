@@ -1,6 +1,6 @@
 ---
 title: 类Linux环境设置网络代理
-url: 类linux环境设置网络代理
+siteurl: 类linux环境设置网络代理
 alias:
   - WSL2设置网络代理/index.html
 author: YJ2CS

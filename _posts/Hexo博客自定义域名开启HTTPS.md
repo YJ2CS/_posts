@@ -1,6 +1,6 @@
 ---
 title: Hexo博客自定义域名开启HTTPS
-url: Hexo博客自定义域名开启HTTPS
+siteurl: Hexo博客自定义域名开启HTTPS
 comments: true
 categories:
   - 文章

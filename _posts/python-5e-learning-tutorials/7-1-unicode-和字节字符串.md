@@ -1,6 +1,6 @@
 ---
 title: 7-1-unicode-和字节字符串
-url: 7-1-unicode-和字节字符串
+siteurl: 7-1-unicode-和字节字符串
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

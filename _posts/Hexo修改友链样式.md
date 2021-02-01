@@ -1,6 +1,6 @@
 ---
 title: Hexo+NexT修改友链样式
-url: Hexo修改友链样式
+siteurl: Hexo修改友链样式
 comments: true
 categories:
   - 文章

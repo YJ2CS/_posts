@@ -1,6 +1,6 @@
 ---
 title: 第十五章 面向对象程序设计 exce
-url: ch15-第十五章-面向对象程序设计-exce
+siteurl: ch15-第十五章-面向对象程序设计-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: 16-3-random
-url: 16-3-random
+siteurl: 16-3-random
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

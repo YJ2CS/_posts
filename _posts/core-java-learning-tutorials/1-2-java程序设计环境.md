@@ -1,6 +1,6 @@
 ---
 title: Java程序设计环境
-url: 1-2-java程序设计环境
+siteurl: 1-2-java程序设计环境
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

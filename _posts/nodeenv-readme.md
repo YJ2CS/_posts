@@ -1,6 +1,6 @@
 ---
 title: nodeenv-readme
-url: nodeenv-readme
+siteurl: nodeenv-readme
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

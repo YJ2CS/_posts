@@ -1,6 +1,6 @@
 ---
 title: LF、CRLF浅析
-url: lf和cr-lf的问题
+siteurl: lf和cr-lf的问题
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

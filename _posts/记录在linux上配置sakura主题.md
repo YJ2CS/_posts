@@ -1,6 +1,6 @@
 ---
 title: 记录在Linux上配置Sakura主题
-url: 记录在linux上配置sakura主题
+siteurl: 记录在linux上配置sakura主题
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

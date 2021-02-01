@@ -1,6 +1,6 @@
 ---
 title: Spring-HTTP协议
-url: 7-1-spring-http协议
+siteurl: 7-1-spring-http协议
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

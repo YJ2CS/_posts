@@ -1,6 +1,6 @@
 ---
 title: Maven:Eclipse集成
-url: maven-eclipse集成
+siteurl: maven-eclipse集成
 alias:
   - 5-1-6-eclipse集成/index.html
 author: YJ2CS

@@ -3,7 +3,7 @@ title: Git命令手动备份Hexo博客源文件
 comments: true
 categories:
   - 文章
-url: manual_backup_blog_source_files
+siteurl: manual_backup_blog_source_files
 tags:
   - 博客
   - Git

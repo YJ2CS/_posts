@@ -1,6 +1,6 @@
 ---
 title: 第七章 类 （Class） exce
-url: ch07-第七章-类-class-exce
+siteurl: ch07-第七章-类-class-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

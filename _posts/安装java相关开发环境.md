@@ -1,6 +1,6 @@
 ---
 title: Windows下的Java环境配置
-url: 安装java相关开发环境
+siteurl: 安装java相关开发环境
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: wordpress使用fastcgi-cache-优化提速
-url: wordpress使用fastcgi-cache-优化提速
+siteurl: wordpress使用fastcgi-cache-优化提速
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: 9-0-python基础初识函数
-url: 9-0-python基础初识函数
+siteurl: 9-0-python基础初识函数
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

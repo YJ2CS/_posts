@@ -1,6 +1,6 @@
 ---
 title: MD配色在线选择工具
-url: md配色在线选择工具
+siteurl: md配色在线选择工具
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

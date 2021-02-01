@@ -1,6 +1,6 @@
 ---
 title: 记录wordpress迁移网站，从阿里云到阿里云
-url: 记录wordpress迁移网站-从阿里云到阿里云
+siteurl: 记录wordpress迁移网站-从阿里云到阿里云
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

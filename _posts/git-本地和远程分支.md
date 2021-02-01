@@ -1,6 +1,6 @@
 ---
 title: Git 本地和远程分支
-url: git-本地和远程分支
+siteurl: git-本地和远程分支
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

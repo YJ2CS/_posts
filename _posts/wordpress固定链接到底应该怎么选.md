@@ -1,6 +1,6 @@
 ---
 title: Wordpress固定链接到底应该怎么选?
-url: wordpress固定链接到底应该怎么选
+siteurl: wordpress固定链接到底应该怎么选
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

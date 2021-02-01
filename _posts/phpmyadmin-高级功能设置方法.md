@@ -1,6 +1,6 @@
 ---
 title: phpMyAdmin 高级功能设置方法
-url: phpmyadmin-高级功能设置方法
+siteurl: phpmyadmin-高级功能设置方法
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

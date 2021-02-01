@@ -1,6 +1,6 @@
 ---
 title: Linux Ubuntu 20.04 LTS 开发环境初始化
-url: linux-ubuntu-2004-lts-开发环境初始化
+siteurl: linux-ubuntu-2004-lts-开发环境初始化
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: Java学习路线
-url: java学习路线
+siteurl: java学习路线
 alias:
   - 0-1-java学习路线/index.html
 author: YJ2CS

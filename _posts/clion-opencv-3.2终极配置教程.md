@@ -1,6 +1,6 @@
 ---
 title: Clion+Opencv3.2终极配置教程
-url: clion-opencv-3.2终极配置教程
+siteurl: clion-opencv-3.2终极配置教程
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

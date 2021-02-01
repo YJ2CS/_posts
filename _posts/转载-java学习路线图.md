@@ -1,6 +1,6 @@
 ---
 title: Java学习路线
-url: 转载-java学习路线图
+siteurl: 转载-java学习路线图
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

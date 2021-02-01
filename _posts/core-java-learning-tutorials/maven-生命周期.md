@@ -1,6 +1,6 @@
 ---
 title: Maven:生命周期
-url: maven-生命周期
+siteurl: maven-生命周期
 alias:
   - 5-1-4-maven生命周期/index.html
   - 5-1-4-maven生命/index.html

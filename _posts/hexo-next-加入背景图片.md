@@ -1,6 +1,6 @@
 ---
 title: Hexo NexT 加入背景图片
-url: hexo-next-加入背景图片
+siteurl: hexo-next-加入背景图片
 comments: true
 categories:
   - 文章

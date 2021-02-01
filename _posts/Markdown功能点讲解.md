@@ -1,6 +1,6 @@
 ---
 title: Hexo中Markdown语法(GFM)使用
-url: Markdown功能点讲解
+siteurl: Markdown功能点讲解
 tags:
   - Markdown
 comments: true

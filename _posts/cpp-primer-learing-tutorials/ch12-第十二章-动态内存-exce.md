@@ -1,6 +1,6 @@
 ---
 title: 第十二章 动态内存 exce
-url: ch12-第十二章-动态内存-exce
+siteurl: ch12-第十二章-动态内存-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

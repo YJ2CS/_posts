@@ -1,6 +1,6 @@
 ---
 title: Visual C++6.0打开后出现程序无法正常启动(0xc0000142)
-url: visual-cpp-6.0打开后出现程序无法正常启动-0xc0000142
+siteurl: visual-cpp-6.0打开后出现程序无法正常启动-0xc0000142
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

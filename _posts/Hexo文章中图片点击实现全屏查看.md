@@ -1,6 +1,6 @@
 ---
 title: Hexo文章中图片点击实现全屏查看
-url: Hexo文章中图片点击实现全屏查看
+siteurl: Hexo文章中图片点击实现全屏查看
 comments: true
 categories:
   - 文章

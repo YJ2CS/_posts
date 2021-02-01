@@ -1,6 +1,6 @@
 ---
 title: 26-0-python-反射及双下方法
-url: 26-0-python-反射及双下方法
+siteurl: 26-0-python-反射及双下方法
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

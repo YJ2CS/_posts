@@ -1,6 +1,6 @@
 ---
 title: windows-mkdocs环境初始化
-url: windows-mkdocs环境初始化
+siteurl: windows-mkdocs环境初始化
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

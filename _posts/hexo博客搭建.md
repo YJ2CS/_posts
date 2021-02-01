@@ -1,6 +1,6 @@
 ---
 title: hexo博客搭建
-url: hexo博客搭建
+siteurl: hexo博客搭建
 alias:
   - index-hexo/index.html
 author: YJ2CS

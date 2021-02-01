@@ -1,6 +1,6 @@
 ---
 title: Maven:IDEA集成
-url: maven-idea集成
+siteurl: maven-idea集成
 alias:
   - 5-1-7-idea集成/index.html
 author: YJ2CS

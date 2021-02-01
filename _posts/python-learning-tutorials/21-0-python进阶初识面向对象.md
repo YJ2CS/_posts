@@ -1,6 +1,6 @@
 ---
 title: 21-0-python进阶初识面向对象
-url: 21-0-python进阶初识面向对象
+siteurl: 21-0-python进阶初识面向对象
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

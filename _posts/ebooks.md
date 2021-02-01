@@ -1,6 +1,6 @@
 ---
 title: 电子书推荐
-url: ebooks
+siteurl: ebooks
 alias:
   - 0-2-ebooks/index.html
   - abort/ebooks/index.html

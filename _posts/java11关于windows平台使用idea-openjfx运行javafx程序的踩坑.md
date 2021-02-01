@@ -1,6 +1,6 @@
 ---
 title: java11关于Windows平台使用idea+openjfx运行JavaFX程序的踩坑
-url: java11关于windows平台使用idea-openjfx运行javafx程序的踩坑
+siteurl: java11关于windows平台使用idea-openjfx运行javafx程序的踩坑
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: hexo更换主题后出现问题：WARN No layout index.html
-url: hexo更换主题后出现问题-warn-no-layout-index-html
+siteurl: hexo更换主题后出现问题-warn-no-layout-index-html
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

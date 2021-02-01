@@ -1,6 +1,6 @@
 ---
 title: 【目录】Hexo+NexT+Gemini 搭建博客拥抱舒爽
-url: hexo-next拥抱舒爽
+siteurl: hexo-next拥抱舒爽
 comments: true
 categories:
   - 文章
@@ -354,7 +354,7 @@ title: 测试图片展示
 tags:
   - Picture
   - Hexo
-url: pictureToDisplayTest_5-3
+siteurl: pictureToDisplayTest_5-3
 comments: true
 categories:
   - Hexo

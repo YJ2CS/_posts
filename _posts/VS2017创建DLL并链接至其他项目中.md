@@ -1,6 +1,6 @@
 ---
 title: VS2017创建DLL并链接至其他项目中
-url: VS2017创建DLL并链接至其他项目中
+siteurl: VS2017创建DLL并链接至其他项目中
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

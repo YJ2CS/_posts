@@ -1,6 +1,6 @@
 ---
 title: 如何在HEXO中插入图片
-url: 如何在HEXO中插入图片
+siteurl: 如何在HEXO中插入图片
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

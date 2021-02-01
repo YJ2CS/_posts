@@ -1,6 +1,6 @@
 ---
 title: Maven 仓库
-url: maven-仓库
+siteurl: maven-仓库
 alias:
   - 5-1-4-2-maven仓库/index.html
 author: YJ2CS

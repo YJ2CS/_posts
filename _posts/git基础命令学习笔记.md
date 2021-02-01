@@ -1,6 +1,6 @@
 ---
 title: Git基础命令学习笔记
-url: git基础命令学习笔记
+siteurl: git基础命令学习笔记
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

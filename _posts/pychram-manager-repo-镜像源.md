@@ -1,6 +1,6 @@
 ---
 title: pychram_manager_repo_镜像源
-url: pychram-manager-repo-镜像源
+siteurl: pychram-manager-repo-镜像源
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

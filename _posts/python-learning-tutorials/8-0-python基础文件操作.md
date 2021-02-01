@@ -1,6 +1,6 @@
 ---
 title: 8-0-python基础文件操作
-url: 8-0-python基础文件操作
+siteurl: 8-0-python基础文件操作
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

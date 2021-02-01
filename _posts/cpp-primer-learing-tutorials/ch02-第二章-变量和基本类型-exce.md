@@ -1,6 +1,6 @@
 ---
 title: 第二章 变量和基本类型 exce
-url: ch02-第二章-变量和基本类型-exce
+siteurl: ch02-第二章-变量和基本类型-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

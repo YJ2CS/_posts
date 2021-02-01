@@ -1,6 +1,6 @@
 ---
 title: C语言中time()函数简介
-url: c语言中的time-srand函数
+siteurl: c语言中的time-srand函数
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

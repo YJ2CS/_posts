@@ -1,6 +1,6 @@
 ---
 title: eclipse中导入Java文件的方法
-url: eclipse中导入java文件
+siteurl: eclipse中导入java文件
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

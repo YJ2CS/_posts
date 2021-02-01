@@ -1,6 +1,6 @@
 ---
 title: 2-3-while-和-for-循环
-url: 2-3-while-和-for-循环
+siteurl: 2-3-while-和-for-循环
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

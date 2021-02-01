@@ -1,6 +1,6 @@
 ---
 title: Hexo NexT 添加 Gitter 在线交流
-url: 添加Gitter在线交流
+siteurl: 添加Gitter在线交流
 comments: true
 categories:
   - 文章

@@ -1,6 +1,6 @@
 ---
 title: hexo主题选择
-url: hexo主题选择
+siteurl: hexo主题选择
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

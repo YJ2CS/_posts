@@ -1,6 +1,6 @@
 ---
 title: Python 核心数据类型
-url: 介绍python对象类型
+siteurl: 介绍python对象类型
 alias:
   - 1-1-介绍python对象类型/index.html
 author: YJ2CS

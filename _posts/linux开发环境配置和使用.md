@@ -1,6 +1,6 @@
 ---
 title: Linux开发环境配置和使用
-url: linux开发环境配置和使用
+siteurl: linux开发环境配置和使用
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

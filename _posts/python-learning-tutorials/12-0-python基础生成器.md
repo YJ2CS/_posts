@@ -1,6 +1,6 @@
 ---
 title: 12-0-python基础生成器
-url: 12-0-python基础生成器
+siteurl: 12-0-python基础生成器
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

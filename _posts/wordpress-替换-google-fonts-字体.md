@@ -1,6 +1,6 @@
 ---
 title: wordpress 替换 google fonts 字体
-url: wordpress-替换-google-fonts-字体
+siteurl: wordpress-替换-google-fonts-字体
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

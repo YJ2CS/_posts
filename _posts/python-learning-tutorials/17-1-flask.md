@@ -1,6 +1,6 @@
 ---
 title: 17-1-flask
-url: 17-1-flask
+siteurl: 17-1-flask
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

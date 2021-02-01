@@ -1,6 +1,6 @@
 ---
 title: 1-3-Java的基础程序设计结构
-url: 1-3-java的基础程序设计结构
+siteurl: 1-3-java的基础程序设计结构
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

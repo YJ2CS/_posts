@@ -1,6 +1,6 @@
 ---
 title: 7-0-python基础数据类型补充
-url: 7-0-python基础数据类型补充
+siteurl: 7-0-python基础数据类型补充
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: wp-super-cache-fastcgi-cache-应该选哪个
-url: wp-super-cache-fastcgi-cache-应该选哪个
+siteurl: wp-super-cache-fastcgi-cache-应该选哪个
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: WordPress文件权限建议
-url: wordpress文件权限建议
+siteurl: wordpress文件权限建议
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: 【持续更新】IDEA 最新激活方法
-url: idea-最新激活方法-持续更新
+siteurl: idea-最新激活方法-持续更新
 tags:
   - ToolBox
   - IDEA

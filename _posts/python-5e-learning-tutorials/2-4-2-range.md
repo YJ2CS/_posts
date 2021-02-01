@@ -1,6 +1,6 @@
 ---
 title: 2-4-2-range
-url: 2-4-2-range
+siteurl: 2-4-2-range
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: Hexo之修改内容区域的宽度
-url: Hexo之修改内容区域的宽度
+siteurl: Hexo之修改内容区域的宽度
 comments: true
 categories:
   - 文章

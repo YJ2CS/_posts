@@ -1,6 +1,6 @@
 ---
 title: mb-s与-mb-s一样吗
-url: mb-s与-mb-s一样吗
+siteurl: mb-s与-mb-s一样吗
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

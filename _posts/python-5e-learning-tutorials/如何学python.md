@@ -1,6 +1,6 @@
 ---
 title: 如何学Python
-url: 如何学python
+siteurl: 如何学python
 alias:
   - 0-1-如何学python/index.html
 author: YJ2CS

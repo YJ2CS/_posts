@@ -1,6 +1,6 @@
 ---
 title: Eclipse中修改包名的方法
-url: eclipse中修改包名或类名
+siteurl: eclipse中修改包名或类名
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

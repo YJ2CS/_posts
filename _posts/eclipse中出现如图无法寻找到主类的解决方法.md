@@ -1,6 +1,6 @@
 ---
 title: eclipse中出现如图无法寻找到主类的解决方法
-url: eclipse中出现如图无法寻找到主类的解决方法
+siteurl: eclipse中出现如图无法寻找到主类的解决方法
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

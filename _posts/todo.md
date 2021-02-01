@@ -1,6 +1,6 @@
 ---
 title: TODO list
-url: todo
+siteurl: todo
 alias: 
   - todo-list/index.html
 author: YJ2CS

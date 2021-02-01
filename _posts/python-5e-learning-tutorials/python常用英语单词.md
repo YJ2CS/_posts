@@ -1,6 +1,6 @@
 ---
 title: python常用英语单词
-url: python常用英语单词
+siteurl: python常用英语单词
 alias:
   - 0-2-python常用英语单词/index.html
 author: YJ2CS

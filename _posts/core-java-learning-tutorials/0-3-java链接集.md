@@ -1,6 +1,6 @@
 ---
 title: Java链接集
-url: 0-3-java链接集
+siteurl: 0-3-java链接集
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

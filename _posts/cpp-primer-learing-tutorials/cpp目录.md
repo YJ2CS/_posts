@@ -1,6 +1,6 @@
 ---
 title: Cpp目录
-url: cpp目录
+siteurl: cpp目录
 alias:
   - index-cpp/index.html
   - 0_0_cpp目录/index.html

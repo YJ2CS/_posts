@@ -1,6 +1,6 @@
 ---
 title: 挑把趁手的兵器——VSCode配置C/C++学习环境（小白向）
-url: vscode配置c-cpp环境
+siteurl: vscode配置c-cpp环境
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

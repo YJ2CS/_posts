@@ -1,6 +1,6 @@
 ---
 title: Maven：插件与依赖
-url: maven-插件与依赖
+siteurl: maven-插件与依赖
 alias:
   - 5-1-5-maven插件/index.html
   - 5-1-5-maven插件与依赖/index.html

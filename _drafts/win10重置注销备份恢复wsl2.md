@@ -1,6 +1,6 @@
 ---
 title: win10重置注销备份恢复wsl2
-url: win10重置注销备份恢复wsl2
+siteurl: win10重置注销备份恢复wsl2
 alias:
   - win10重置注销wsl2/index.html
 author: YJ2CS

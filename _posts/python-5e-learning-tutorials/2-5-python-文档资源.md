@@ -1,6 +1,6 @@
 ---
 title: 2-5-python-文档资源
-url: 2-5-python-文档资源
+siteurl: 2-5-python-文档资源
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

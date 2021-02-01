@@ -1,6 +1,6 @@
 ---
 title: wordpress简单备份
-url: wordpress简单备份
+siteurl: wordpress简单备份
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

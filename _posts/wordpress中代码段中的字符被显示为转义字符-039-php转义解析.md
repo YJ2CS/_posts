@@ -1,6 +1,6 @@
 ---
 title: Wordpress中代码段中的字符被显示为转义字符&#039 PHP转义解析
-url: wordpress中代码段中的字符被显示为转义字符-039-php转义解析
+siteurl: wordpress中代码段中的字符被显示为转义字符-039-php转义解析
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

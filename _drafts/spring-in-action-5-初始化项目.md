@@ -1,6 +1,6 @@
 ---
 title: 学习 Spring 实战第5版：初始化项目
-url: spring-in-action-5-初始化项目
+siteurl: spring-in-action-5-初始化项目
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

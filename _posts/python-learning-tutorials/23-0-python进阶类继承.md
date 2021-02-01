@@ -1,6 +1,6 @@
 ---
 title: 23-0-python进阶类继承
-url: 23-0-python进阶类继承
+siteurl: 23-0-python进阶类继承
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

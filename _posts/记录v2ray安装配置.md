@@ -1,6 +1,6 @@
 ---
 title: 记录v2ray安装配置
-url: 记录v2ray安装配置
+siteurl: 记录v2ray安装配置
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

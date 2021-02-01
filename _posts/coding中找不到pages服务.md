@@ -1,6 +1,6 @@
 ---
 title: CODING中找不到Pages服务
-url: coding中找不到pages服务
+siteurl: coding中找不到pages服务
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

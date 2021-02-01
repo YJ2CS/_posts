@@ -1,6 +1,6 @@
 ---
 title: cdn加速geoip
-url: cdn加速geoip
+siteurl: cdn加速geoip
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: vim-高效率高难度的编程工具
-url: vim-高效率高难度的编程工具
+siteurl: vim-高效率高难度的编程工具
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

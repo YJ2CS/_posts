@@ -1,6 +1,6 @@
 ---
 title: GitBash设置代理
-url: GitBash设置代理
+siteurl: GitBash设置代理
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

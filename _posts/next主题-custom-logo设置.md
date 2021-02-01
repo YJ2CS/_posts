@@ -1,6 +1,6 @@
 ---
 title: next主题 custom-logo设置
-url: next主题-custom-logo设置
+siteurl: next主题-custom-logo设置
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

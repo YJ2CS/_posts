@@ -1,6 +1,6 @@
 ---
 title: Hexo+NexT选取文字提示版权信息
-url: hexo-next选取文字提示版权信息
+siteurl: hexo-next选取文字提示版权信息
 comments: true
 categories:
   - 文章

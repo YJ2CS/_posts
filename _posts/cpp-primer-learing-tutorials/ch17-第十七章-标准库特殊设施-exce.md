@@ -1,6 +1,6 @@
 ---
 title: 第十七章 标准库特殊设施 exce
-url: ch17-第十七章-标准库特殊设施-exce
+siteurl: ch17-第十七章-标准库特殊设施-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: git配置使用ssh
-url: git配置使用ssh
+siteurl: git配置使用ssh
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

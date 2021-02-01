@@ -1,6 +1,6 @@
 ---
 title: linux环境下的宝塔安装配置
-url: linux环境下的宝塔安装配置
+siteurl: linux环境下的宝塔安装配置
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

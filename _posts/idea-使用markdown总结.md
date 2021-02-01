@@ -1,6 +1,6 @@
 ---
 title: idea 使用markdown总结
-url: idea-使用markdown总结
+siteurl: idea-使用markdown总结
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

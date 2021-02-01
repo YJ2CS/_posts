@@ -1,6 +1,6 @@
 ---
 title: 25-0-python类成员
-url: 25-0-python类成员
+siteurl: 25-0-python类成员
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

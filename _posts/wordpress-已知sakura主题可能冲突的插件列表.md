@@ -1,6 +1,6 @@
 ---
 title: WordPress 已知Sakura主题可能冲突的插件列表
-url: wordpress-已知sakura主题可能冲突的插件列表
+siteurl: wordpress-已知sakura主题可能冲突的插件列表
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

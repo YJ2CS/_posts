@@ -1,6 +1,6 @@
 ---
 title: 10-0-python基础函数进阶
-url: 10-0-python基础函数进阶
+siteurl: 10-0-python基础函数进阶
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

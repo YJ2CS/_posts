@@ -1,6 +1,6 @@
 ---
 title: Hexo博客NexT主题开启文章目录和调整样式
-url: Hexo博客NexT主题开启文章目录和调整样式
+siteurl: Hexo博客NexT主题开启文章目录和调整样式
 comments: true
 categories:
   - 文章

@@ -1,6 +1,6 @@
 ---
 title: 记录docker安装配置使用
-url: 记录docker安装配置使用
+siteurl: 记录docker安装配置使用
 alias:
   - docker-wsl2/index.html
 author: YJ2CS

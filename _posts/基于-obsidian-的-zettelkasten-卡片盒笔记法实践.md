@@ -1,6 +1,6 @@
 ---
 title: 基于 Obsidian 的 Zettelkasten 卡片盒笔记法实践
-url: 基于-obsidian-的-zettelkasten-卡片盒笔记法实践
+siteurl: 基于-obsidian-的-zettelkasten-卡片盒笔记法实践
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

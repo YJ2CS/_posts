@@ -1,6 +1,6 @@
 ---
 title: 自动备份Hexo博客源文件
-url: 自动备份Hexo博客源文件
+siteurl: 自动备份Hexo博客源文件
 comments: true
 categories:
   - 文章

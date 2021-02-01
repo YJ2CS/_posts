@@ -1,6 +1,6 @@
 ---
 title: 如何更新npm项目依赖
-url: 如何更新npm项目依赖
+siteurl: 如何更新npm项目依赖
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

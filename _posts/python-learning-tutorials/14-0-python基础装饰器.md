@@ -1,6 +1,6 @@
 ---
 title: 14-0-python基础装饰器
-url: 14-0-python基础装饰器
+siteurl: 14-0-python基础装饰器
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

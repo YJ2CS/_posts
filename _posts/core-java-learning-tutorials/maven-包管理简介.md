@@ -1,6 +1,6 @@
 ---
 title: Maven：包管理简介
-url: maven-包管理简介
+siteurl: maven-包管理简介
 alias:
   - 5-1-maven与包管理/index.html
 author: YJ2CS

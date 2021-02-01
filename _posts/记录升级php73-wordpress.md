@@ -1,6 +1,6 @@
 ---
 title: 记录升级PHP73_WordPress
-url: 记录升级php73_wordpress
+siteurl: 记录升级php73_wordpress
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

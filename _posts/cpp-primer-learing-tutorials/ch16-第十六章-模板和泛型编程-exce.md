@@ -1,6 +1,6 @@
 ---
 title: 第十六章 模板和泛型编程 exce
-url: ch16-第十六章-模板和泛型编程-exce
+siteurl: ch16-第十六章-模板和泛型编程-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

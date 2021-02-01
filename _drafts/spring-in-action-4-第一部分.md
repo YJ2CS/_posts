@@ -1,6 +1,6 @@
 ---
 title: spring-in-action-4-第一部分-spring-core
-url: spring-in-action-4-第一部分-spring-core
+siteurl: spring-in-action-4-第一部分-spring-core
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

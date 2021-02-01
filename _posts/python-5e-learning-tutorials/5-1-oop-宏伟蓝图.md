@@ -1,6 +1,6 @@
 ---
 title: 5-1-oop-宏伟蓝图
-url: 5-1-oop-宏伟蓝图
+siteurl: 5-1-oop-宏伟蓝图
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

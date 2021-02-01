@@ -1,6 +1,6 @@
 ---
 title: Maven：pom文件详解
-url: maven-pom文件详解
+siteurl: maven-pom文件详解
 alias:
   - 5-1-2-pom文件/index.html
 author: YJ2CS

@@ -1,6 +1,6 @@
 ---
 title: git-安装-配置-学习
-url: git-安装-配置-学习
+siteurl: git-安装-配置-学习
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

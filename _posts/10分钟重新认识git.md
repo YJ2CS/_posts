@@ -1,6 +1,6 @@
 ---
 title: 10分钟重新认识GIT
-url: 10分钟重新认识git
+siteurl: 10分钟重新认识git
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

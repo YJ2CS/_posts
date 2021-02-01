@@ -1,6 +1,6 @@
 ---
 title: 史上最全的Vim命令
-url: 史上最全的Vim命令
+siteurl: 史上最全的Vim命令
 author: YJ2CS
 avatar: /custom/avatar.webp
 authorLink: YJ2CS.github.io

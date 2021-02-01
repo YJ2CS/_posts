@@ -1,6 +1,6 @@
 ---
 title: 2-3-lambda表达式与内部类
-url: 2-3-lambda表达式与内部类
+siteurl: 2-3-lambda表达式与内部类
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

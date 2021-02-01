@@ -1,6 +1,6 @@
 ---
 title: 记录主题更换的历程Sakura to Sakurairo
-url: 记录主题更换的历程sakura-to-sakurairo
+siteurl: 记录主题更换的历程sakura-to-sakurairo
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

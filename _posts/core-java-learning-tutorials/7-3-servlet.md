@@ -1,6 +1,6 @@
 ---
 title: Servlet
-url: 7-3-servlet
+siteurl: 7-3-servlet
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

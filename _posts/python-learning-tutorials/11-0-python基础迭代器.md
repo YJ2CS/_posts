@@ -1,6 +1,6 @@
 ---
 title: 11-0-python基础迭代器
-url: 11-0-python基础迭代器
+siteurl: 11-0-python基础迭代器
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

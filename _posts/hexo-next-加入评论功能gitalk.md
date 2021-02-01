@@ -1,6 +1,6 @@
 ---
 title: Hexo NexT 加入评论功能gitalk
-url: hexo-next-加入评论功能gitalk
+siteurl: hexo-next-加入评论功能gitalk
 comments: true
 categories:
   - 文章

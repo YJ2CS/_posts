@@ -1,6 +1,6 @@
 ---
 title: eclipse快速调整字体大小
-url: eclipse快速调整字体大小
+siteurl: eclipse快速调整字体大小
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

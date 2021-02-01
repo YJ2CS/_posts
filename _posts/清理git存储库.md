@@ -1,6 +1,6 @@
 ---
 title: 清理git存储库
-url: 清理git存储库
+siteurl: 清理git存储库
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: 5-2-单元测试
-url: junit-单元测试
+siteurl: junit-单元测试
 alias:
   - 5-2-单元测试/index.html
 author: YJ2CS

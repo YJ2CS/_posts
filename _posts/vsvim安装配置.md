@@ -1,6 +1,6 @@
 ---
 title: VsVim安装配置
-url: vsvim安装配置
+siteurl: vsvim安装配置
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: 第七章 类 （Class）
-url: ch07-第七章-类-class
+siteurl: ch07-第七章-类-class
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

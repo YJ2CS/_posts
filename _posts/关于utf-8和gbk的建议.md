@@ -1,6 +1,6 @@
 ---
 title: 关于UTF-8和GBK的建议
-url: 关于utf-8和gbk的建议
+siteurl: 关于utf-8和gbk的建议
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

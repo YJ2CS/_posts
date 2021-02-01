@@ -1,6 +1,6 @@
 ---
 title: maven 构建配置文件
-url: maven-构建配置文件
+siteurl: maven-构建配置文件
 alias:
   - 5-1-4-1-maven构建配置文件/index.html
 author: YJ2CS

@@ -1,6 +1,6 @@
 ---
 title: Java程序设计概述
-url: 1-1-java程序设计概述
+siteurl: 1-1-java程序设计概述
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

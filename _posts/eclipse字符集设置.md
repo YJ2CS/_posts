@@ -1,6 +1,6 @@
 ---
 title: eclipse字符集设置
-url: eclipse字符集设置
+siteurl: eclipse字符集设置
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

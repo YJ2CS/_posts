@@ -1,6 +1,6 @@
 ---
 title: Vscode windows下使用vscode编写运行以及调试C/C++ - Alttmis
-url: vscode-windows下使用vscode编写运行以及调试c-cpp-alttmis
+siteurl: vscode-windows下使用vscode编写运行以及调试c-cpp-alttmis
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

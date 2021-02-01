@@ -1,6 +1,6 @@
 ---
 title: 第三章 字符串、向量和数组 exce
-url: ch03-第三章-字符串-向量和数组-exce
+siteurl: ch03-第三章-字符串-向量和数组-exce
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

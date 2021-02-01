@@ -1,6 +1,6 @@
 ---
 title: 0-4-python安装
-url: 0-4-python安装
+siteurl: 0-4-python安装
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

@@ -1,6 +1,6 @@
 ---
 title: 如何系统的自学Java语言
-url: 转载-如何系统的自学java语言
+siteurl: 转载-如何系统的自学java语言
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

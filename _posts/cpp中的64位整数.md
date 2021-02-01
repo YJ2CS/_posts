@@ -1,6 +1,6 @@
 ---
 title: C++中的64位整数
-url: cpp中的64位整数
+siteurl: cpp中的64位整数
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

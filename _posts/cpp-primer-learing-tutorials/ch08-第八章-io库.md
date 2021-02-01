@@ -1,6 +1,6 @@
 ---
 title: 第八章 IO库
-url: ch08-第八章-io库
+siteurl: ch08-第八章-io库
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

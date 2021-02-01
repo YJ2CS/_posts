@@ -1,6 +1,6 @@
 ---
 title: 国人开源的后端架构师技术图谱，霸占Github热榜！
-url: 国人开源的后端架构师技术图谱-霸占github热榜
+siteurl: 国人开源的后端架构师技术图谱-霸占github热榜
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io

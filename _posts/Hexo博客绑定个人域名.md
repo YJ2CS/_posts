@@ -1,6 +1,6 @@
 ---
 title: Hexo博客绑定个人域名
-url: Hexo博客绑定个人域名
+siteurl: Hexo博客绑定个人域名
 comments: true
 categories:
   - 文章

@@ -1,6 +1,6 @@
 ---
 title: 2-0-python运算符
-url: 2-0-python运算符
+siteurl: 2-0-python运算符
 author: YJ2CS
 avatar: '/custom/avatar.webp'
 authorLink: YJ2CS.github.io
